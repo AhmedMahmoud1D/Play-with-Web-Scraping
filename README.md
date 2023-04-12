@@ -14,7 +14,7 @@
 
 
 #### 3.Run the program from the command line using the following command: python main.py.
-#### 4.Enter the desired date in the format yyyy-mm-dd.
+#### 4.Enter the desired date in the format `yyyy-mm-dd`.
 ![## True Format](https://user-images.githubusercontent.com/118063610/230723845-e1082d34-ed24-4fd5-9093-c86a67c3ce27.png)
 #### 5.The program will scrape the matches details and save them in a CSV file named matches.csv in the same directory as the program.
 ![](https://user-images.githubusercontent.com/118063610/230724139-a9a62309-7399-47a2-a1a8-0b7d55942355.png)
